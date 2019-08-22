@@ -1931,7 +1931,7 @@
       </Color>
       <Color Name="keyword - control">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFC792EA" />
       </Color>
       <Color Name="operator - overloaded">
         <Background Type="CT_RAW" Source="FF011627" />
