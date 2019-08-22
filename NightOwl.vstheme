@@ -1,5 +1,5 @@
 ﻿<Themes>
-  <Theme Name="NightOwl" GUID="{32b2bbc3-a6aa-451a-b3d5-6785044a5337}" BaseGUID="{00ce3b29-ad19-4607-bb49-a3ddf7ce66b7}">
+  <Theme Name="NightOwl" GUID="{a3196f15-b0a0-4c66-9609-7c8160aa5591}" BaseGUID="{00ce3b29-ad19-4607-bb49-a3ddf7ce66b7}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1386,8 +1386,8 @@
         <Foreground Type="CT_RAW" Source="FF95BCCE" />
       </Color>
       <Color Name="HTML Server-Side Script">
-        <Background Type="CT_RAW" Source="FFFFFFB3" />
-        <Foreground Type="CT_RAW" Source="FF000C22" />
+        <Background Type="CT_RAW" Source="FF011627" />
+        <Foreground Type="CT_RAW" Source="FFFF5874" />
       </Color>
       <Color Name="HTML Tag Delimiter">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -3446,7 +3446,7 @@
         <Background Type="CT_RAW" Source="FF26708B" />
       </Color>
       <Color Name="FileTabHotBorder">
-        <Background Type="CT_RAW" Source="FF7D99B1" />
+        <Background Type="CT_RAW" Source="FF0B2942" />
       </Color>
       <Color Name="FileTabHotText">
         <Background Type="CT_RAW" Source="FFE0F6FF" />
@@ -3494,10 +3494,10 @@
         <Background Type="CT_RAW" Source="FFBAD0E4" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle1">
-        <Background Type="CT_RAW" Source="FF5F7E97" />
+        <Background Type="CT_RAW" Source="FF09416D" />
       </Color>
       <Color Name="FileTabSelectedGradientMiddle2">
-        <Background Type="CT_RAW" Source="FF5F7E97" />
+        <Background Type="CT_RAW" Source="FF09416D" />
       </Color>
       <Color Name="NewProjectBackground">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -4038,7 +4038,7 @@
         <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="FileTabBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF01111D" />
       </Color>
       <Color Name="FileTabChannelBackground">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -4053,13 +4053,13 @@
         <Background Type="CT_RAW" Source="FF5F7E97" />
       </Color>
       <Color Name="FileTabSelectedBorder">
-        <Background Type="CT_RAW" Source="FF5F7E97" />
+        <Background Type="CT_RAW" Source="FF09416D" />
       </Color>
       <Color Name="FileTabSelectedText">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FFD2DEE7" />
       </Color>
       <Color Name="FileTabText">
-        <Background Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FF5F7E97" />
       </Color>
       <Color Name="FormSmartTagActionTagBorder">
         <Background Type="CT_RAW" Source="FF000C22" />
@@ -4410,22 +4410,22 @@
         <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="FileTabSelectedGradientTop">
-        <Background Type="CT_RAW" Source="FF5F7E97" />
+        <Background Type="CT_RAW" Source="FF09416D" />
       </Color>
       <Color Name="FileTabSelectedGradientBottom">
-        <Background Type="CT_RAW" Source="FF5F7E97" />
+        <Background Type="CT_RAW" Source="FF09416D" />
       </Color>
       <Color Name="FileTabHotGradientTop">
-        <Background Type="CT_RAW" Source="FF7D99B1" />
+        <Background Type="CT_RAW" Source="FF0B2942" />
       </Color>
       <Color Name="FileTabHotGradientBottom">
-        <Background Type="CT_RAW" Source="FF7D99B1" />
+        <Background Type="CT_RAW" Source="FF0B2942" />
       </Color>
       <Color Name="FileTabDocumentBorderShadow">
         <Background Type="CT_RAW" Source="FF5F7E97" />
       </Color>
       <Color Name="FileTabDocumentBorderBackground">
-        <Background Type="CT_RAW" Source="FF5F7E97" />
+        <Background Type="CT_RAW" Source="FF09416D" />
       </Color>
       <Color Name="FileTabDocumentBorderHighlight">
         <Background Type="CT_RAW" Source="FF5F7E97" />
@@ -5153,7 +5153,7 @@
         <Background Type="CT_RAW" Source="FF26708B" />
       </Color>
       <Color Name="FileTabBackground">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF01111D" />
       </Color>
       <Color Name="ToolWindowTabSelectedBorder">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -9052,6 +9052,32 @@
       <Color Name="Artboard Background">
         <Background Type="CT_RAW" Source="FF000F24" />
         <Foreground Type="CT_RAW" Source="FF000F24" />
+      </Color>
+    </Category>
+    <Category Name="WebClient Diagnostic Tools" GUID="{2aa714ae-53be-4393-84e0-dc95b57a1891}">
+      <Color Name="Plain Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Console Input Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Console Output Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Console Info Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Console Error Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
+      </Color>
+      <Color Name="Console Warning Text">
+        <Background Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
     </Category>
   </Theme>

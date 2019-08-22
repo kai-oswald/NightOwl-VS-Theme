@@ -1,10 +1,14 @@
-﻿@{ 
+﻿@using System.Collections.Generic
+@layout SharedLayout
+@{ 
     var test = "Test";
 }
-
+<partial name="_Header.cshtml"></partial>
 @for(var i = 0; i <= 5; i++)
 {
     <div class="container">
         @i
+
+        @(test.Split().GetLength(2))
     </div>
 }
