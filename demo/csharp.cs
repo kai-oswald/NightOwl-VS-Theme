@@ -12,6 +12,7 @@ namespace NightOwl.demo
 
         public string TestProperty { get; set; }
 
+        #region RegionTest
         public string Getter => TestProperty;
 
         public CSharp(string testField)
@@ -20,6 +21,8 @@ namespace NightOwl.demo
             string text = $"{TestProperty} this is a text string";
             int number = 1;
         }
+
+        #endregion
 
         /// <summary>
         /// Hello this is an xml comment

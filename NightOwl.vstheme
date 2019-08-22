@@ -1083,15 +1083,15 @@
     <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="Markup Attribute">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCFE5F6" />
+        <Foreground Type="CT_RAW" Source="FFADDB67" />
       </Color>
       <Color Name="Markup Attribute Value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="Markup Node">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF7D99B1" />
+        <Foreground Type="CT_RAW" Source="FF7FDBCA" />
       </Color>
       <Color Name="Type">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1131,11 +1131,11 @@
       </Color>
       <Color Name="Operator">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFE0F6FF" />
+        <Foreground Type="CT_RAW" Source="FF7FDBCA" />
       </Color>
       <Color Name="Literal">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF7FDBCA" />
       </Color>
       <Color Name="SymbolDefinitionClassificationFormat">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1363,15 +1363,15 @@
       </Color>
       <Color Name="HTML Attribute">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF7D99B1" />
+        <Foreground Type="CT_RAW" Source="FFADDB67" />
       </Color>
       <Color Name="HTML Attribute Value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="HTML Comment">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="HTML Element Name">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1527,7 +1527,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFFFCB8B" />
+        <Foreground Type="CT_RAW" Source="FF82AAFF" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1551,15 +1551,15 @@
       </Color>
       <Color Name="xml doc comment - attribute name">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFADDB67" />
       </Color>
       <Color Name="xml doc comment - attribute quotes">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="xml doc comment - attribute value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="xml doc comment - cdata section">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1567,27 +1567,27 @@
       </Color>
       <Color Name="xml doc comment - comment">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="xml doc comment - delimiter">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="xml doc comment - entity reference">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="xml doc comment - name">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF7FDBCA" />
       </Color>
       <Color Name="xml doc comment - processing instruction">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="xml doc comment - text">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="xml literal - attribute name">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1599,7 +1599,7 @@
       </Color>
       <Color Name="xml literal - attribute value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="xml literal - cdata section">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1607,7 +1607,7 @@
       </Color>
       <Color Name="xml literal - comment">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="xml literal - delimiter">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1651,7 +1651,7 @@
       </Color>
       <Color Name="brace matching">
         <Background Type="CT_RAW" Source="FF20476C" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="Stale Code">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1847,7 +1847,7 @@
       </Color>
       <Color Name="XML Doc Comment">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="XML Doc Tag">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1959,11 +1959,11 @@
       </Color>
       <Color Name="method name">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF82AAFF" />
       </Color>
       <Color Name="extension method name">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF82AAFF" />
       </Color>
       <Color Name="property name">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -2023,7 +2023,7 @@
       </Color>
       <Color Name="axml - attribute value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_INVALID" Source="FFECC48D" />
       </Color>
       <Color Name="axml - cdata section">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -2389,7 +2389,7 @@
         <Background Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="GridHeadingBackground">
-        <Background Type="CT_RAW" Source="00000C22" />
+        <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="GridHeadingHoverBackground">
         <Background Type="CT_RAW" Source="00000C22" />
@@ -7470,19 +7470,19 @@
       </Color>
       <Color Name="Comment">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF82AAFF" />
       </Color>
       <Color Name="String">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF81D4FA" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="Number">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFC792EA" />
+        <Foreground Type="CT_RAW" Source="FFF78C6C" />
       </Color>
       <Color Name="XML CData Section">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -7578,7 +7578,7 @@
       </Color>
       <Color Name="XAML Attribute Value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="XAML Attribute Quotes">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -7622,7 +7622,7 @@
       </Color>
       <Color Name="XML Attribute Value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="XML Attribute Quotes">
         <Background Type="CT_RAW" Source="FF011627" />
