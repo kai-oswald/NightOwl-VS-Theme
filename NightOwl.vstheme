@@ -1339,15 +1339,15 @@
       </Color>
       <Color Name="CSS Keyword">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF7D99B1" />
+        <Foreground Type="CT_RAW" Source="FFFFEB95" />
       </Color>
       <Color Name="CSS Comment">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF37803A" />
+        <Foreground Type="CT_RAW" Source="FF637777" />
       </Color>
       <Color Name="CSS Selector">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFC792EA" />
+        <Foreground Type="CT_RAW" Source="FFADDB67" />
       </Color>
       <Color Name="CSS Property Name">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1359,7 +1359,7 @@
       </Color>
       <Color Name="CSS String Value">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF81D4FA" />
+        <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="HTML Attribute">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1527,7 +1527,7 @@
       </Color>
       <Color Name="class name">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF82AAFF" />
+        <Foreground Type="CT_RAW" Source="FFFFCB8B" />
       </Color>
       <Color Name="delegate name">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1675,7 +1675,7 @@
       </Color>
       <Color Name="JSON Property Name">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFC792EA" />
+        <Foreground Type="CT_RAW" Source="FF7FDBCA" />
       </Color>
       <Color Name="LessCssVariableDeclarationClassificationFormat">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1859,7 +1859,7 @@
       </Color>
       <Color Name="FSharp.Function">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF82AAFF" />
       </Color>
       <Color Name="FSharp.MutableVar">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -7474,7 +7474,7 @@
       </Color>
       <Color Name="Identifier">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF82AAFF" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="String">
         <Background Type="CT_RAW" Source="FF011627" />
