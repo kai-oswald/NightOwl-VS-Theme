@@ -48,6 +48,10 @@
     <Content Include="demo\css.css" />
     <Content Include="demo\js.js" />
     <Content Include="demo\vb.vb" />
+    <Content Include="preview.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      <IncludeInVSIX>true</IncludeInVSIX>
+    </Content>
     <None Include="demo\cshtml.cshtml" />
     <None Include="demo\fsharp.fs" />
     <None Include="demo\vue.vue" />
