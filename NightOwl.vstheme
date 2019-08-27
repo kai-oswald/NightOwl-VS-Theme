@@ -1795,7 +1795,7 @@
       </Color>
       <Color Name="Inline Rename Field Text">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_INVALID" Source="00000000" />
+        <Foreground Type="CT_RAW" Source="FFADDB67" />
       </Color>
       <Color Name="data.tools.diff.remove.line">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -7814,7 +7814,7 @@
       </Color>
       <Color Name="Executing Thread IP">
         <Background Type="CT_RAW" Source="FFD7BA7C" />
-        <Foreground Type="CT_RAW" Source="FF000C22" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Current Statement (new context)">
         <Background Type="CT_INVALID" Source="00000000" />
