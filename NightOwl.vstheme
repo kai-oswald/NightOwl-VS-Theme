@@ -7754,63 +7754,63 @@
       </Color>
       <Color Name="Tracepoint - Mapped (Enabled)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint (Disabled)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFEA7E85" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint - Mapped (Error)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFEA7E85" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Breakpoint - Advanced (Enabled)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="Tracepoint (Error)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFD85050" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint - Mapped (Warning)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF95DB7D" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint - Advanced (Disabled)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFD85050" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint - Advanced (Warning)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF95DB7D" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint - Mapped (Disabled)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFD85050" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint (Enabled)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFD7BA7D" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Breakpoint - Advanced (Warning)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="Breakpoint - Mapped (Warning)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="Breakpoint - Mapped (Error)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFFFDBA3" />
       </Color>
       <Color Name="Breakpoint - Advanced (Error)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFFFDBA3" />
       </Color>
       <Color Name="Current Statement">
         <Background Type="CT_RAW" Source="FFEFF284" />
-        <Foreground Type="CT_RAW" Source="FF000C22" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Executing Thread IP">
         <Background Type="CT_RAW" Source="FFD7BA7C" />
@@ -7818,22 +7818,22 @@
       </Color>
       <Color Name="Current Statement (new context)">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFEA7E5F" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Breakpoint (Disabled)">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF95BCCE" />
       </Color>
       <Color Name="Breakpoint (Error)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFFFDBA3" />
       </Color>
       <Color Name="Tracepoint - Advanced (Error)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFEA7E5F" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Breakpoint (Warning)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="Coverage Touched Area">
@@ -7853,7 +7853,7 @@
         <Foreground Type="CT_RAW" Source="FF000C22" />
       </Color>
       <Color Name="Breakpoint (Enabled)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="Call Return">
@@ -7866,7 +7866,7 @@
       </Color>
       <Color Name="Current Statement (historical mode)">
         <Background Type="CT_RAW" Source="FFB5CEA8" />
-        <Foreground Type="CT_RAW" Source="FF000C22" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Error Message">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -7874,11 +7874,11 @@
       </Color>
       <Color Name="Tracepoint - Advanced (Enabled)">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FFEFF284" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Breakpoint - Mapped (Enabled)">
-        <Background Type="CT_RAW" Source="FF8C2F2F" />
-        <Foreground Type="CT_RAW" Source="FFE0F6FF" />
+        <Background Type="CT_RAW" Source="FF011627" />
+        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="Tracepoint (Warning)">
         <Background Type="CT_RAW" Source="FF011627" />
