@@ -1146,8 +1146,8 @@
         <Foreground Type="CT_RAW" Source="FF7CA5A0" />
       </Color>
       <Color Name="CurrentLineActiveFormat">
-        <Background Type="CT_RAW" Source="FF455A64" />
-        <Foreground Type="CT_RAW" Source="FF455A64" />
+        <Background Type="CT_RAW" Source="FF010A12" />
+        <Foreground Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="deltadiff.remove.line">
         <Background Type="CT_RAW" Source="FF2D0000" />
