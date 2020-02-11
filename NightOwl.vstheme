@@ -1395,6 +1395,7 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginBackground">
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginVisible">
@@ -1402,7 +1403,7 @@
         <Foreground Type="CT_RAW" Source="FF26708B" />
       </Color>
       <Color Name="OverviewMarginCaret">
-        <Background Type="CT_INVALID" Source="00000000" />
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="MarkerFormatDefinition/BookmarkInScrollBar">
@@ -1570,7 +1571,6 @@
         <Foreground Type="CT_RAW" Source="FFCCE2EF" />
       </Color>
       <Color Name="RenameTrackingTag">
-        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="Edit and Continue">
@@ -1720,10 +1720,10 @@
       </Color>
       <Color Name="RoslynRenameFieldBackgroundAndBorderTag">
         <Background Type="CT_INVALID" Source="00000000" />
-        <Foreground Type="CT_RAW" Source="FFCCE2EF" />
+        <Foreground Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="Inline Rename Field Text">
-        <Foreground Type="CT_RAW" Source="FFADDB67" />
+        <Foreground Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="data.tools.diff.remove.line">
         <Background Type="CT_INVALID" Source="00000000" />
@@ -1797,12 +1797,15 @@
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
       <Color Name="OverviewMarginScrollButtons">
+        <Background Type="CT_RAW" Source="FF011627" />
         <Foreground Type="CT_RAW" Source="FF5D96AC" />
       </Color>
       <Color Name="OverviewMarginScrollButtonsMouseOver">
+        <Background Type="CT_RAW" Source="FF0B2942" />
         <Foreground Type="CT_RAW" Source="FF7D99B1" />
       </Color>
       <Color Name="OverviewMarginScrollButtonsMouseDown">
+        <Background Type="CT_RAW" Source="FF0B2942" />
         <Foreground Type="CT_RAW" Source="FF5F7E97" />
       </Color>
       <Color Name="regex - comment">
