@@ -1,5 +1,5 @@
-﻿<Themes>
-  <Theme Name="NightOwl" GUID="{a57b0794-df41-43e7-a560-39b9e0fee541}" BaseGUID="{04608b5c-d343-4242-90d8-86b4e3dca0c2}">
+<Themes>
+  <Theme Name="NightOwl" GUID="{21aad376-802e-4d3f-9b99-3790e6ca7e9a}" BaseGUID="{a57b0794-df41-43e7-a560-39b9e0fee541}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -5350,6 +5350,18 @@
       </Color>
       <Color Name="Halo">
         <Background Type="CT_RAW" Source="FFF6F6F6" />
+      </Color>
+      <Color Name="FileTabParentText">
+        <Background Type="CT_RAW" Source="FFE0F6FF" />
+      </Color>
+      <Color Name="FileTabGroupTitleBackground">
+        <Background Type="CT_RAW" Source="FF011627" />
+      </Color>
+      <Color Name="FileTabActiveGroupTitleBackground">
+        <Background Type="CT_RAW" Source="FF0D4F82" />
+      </Color>
+      <Color Name="FileTabActiveGroupBackground">
+        <Background Type="CT_RAW" Source="FF011627" />
       </Color>
     </Category>
     <Category Name="Find" GUID="{4370282e-987e-4ac4-ad14-5ffed2ad1e14}">
