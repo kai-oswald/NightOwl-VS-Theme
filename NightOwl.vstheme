@@ -1,5 +1,5 @@
 <Themes>
-  <Theme Name="NightOwl" GUID="{21aad376-802e-4d3f-9b99-3790e6ca7e9a}" BaseGUID="{a57b0794-df41-43e7-a560-39b9e0fee541}">
+  <Theme Name="NightOwl" GUID="{a57b0794-df41-43e7-a560-39b9e0fee541}" BaseGUID="{21aad376-802e-4d3f-9b99-3790e6ca7e9a}">
     <Category Name="ACDCOverview" GUID="{c8887ac6-3c60-4209-9d69-8f4c12a60044}">
       <Color Name="Body">
         <Background Type="CT_RAW" Source="FF011627" />
@@ -1080,7 +1080,7 @@
         <Background Type="CT_RAW" Source="FF96ABB9" />
       </Color>
     </Category>
-    <Category Name="ColorizedSignatureHelp colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
+    <Category Name="Android Layout Editor Colors" GUID="{75a05685-00a8-4ded-bae5-e7a50bfa929a}">
       <Color Name="Markup Attribute">
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFADDB67" />
@@ -7671,55 +7671,55 @@
         <Foreground Type="CT_RAW" Source="FFD85050" />
       </Color>
       <Color Name="XAML Text">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF95BCCE" />
       </Color>
       <Color Name="XAML Keyword">
-        <Background Type="CT_RAW" Source="FF011627" />
+         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF81D4FA" />
       </Color>
       <Color Name="XAML Delimiter">
-        <Background Type="CT_RAW" Source="FF011627" />
+         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5D96AC" />
       </Color>
       <Color Name="XAML Comment">
-        <Background Type="CT_RAW" Source="FF011627" />
+         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF37803A" />
       </Color>
       <Color Name="XAML Name">
-        <Background Type="CT_RAW" Source="FF011627" />
+       <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFC792EA" />
       </Color>
       <Color Name="XAML Attribute">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF7D99B1" />
       </Color>
       <Color Name="XAML CData Section">
-        <Background Type="CT_RAW" Source="FF011627" />
+         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFC0D088" />
       </Color>
       <Color Name="XAML Processing Instruction">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBBA08C" />
       </Color>
       <Color Name="XAML Attribute Value">
-        <Background Type="CT_RAW" Source="FF011627" />
+         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFECC48D" />
       </Color>
       <Color Name="XAML Attribute Quotes">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF5D96AC" />
       </Color>
       <Color Name="XAML Markup Extension Class">
-        <Background Type="CT_RAW" Source="FF011627" />
+         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFBBA08C" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Name">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FFD7BA7D" />
       </Color>
       <Color Name="XAML Markup Extension Parameter Value">
-        <Background Type="CT_RAW" Source="FF011627" />
+      <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_RAW" Source="FF95BCCE" />
       </Color>
       <Color Name="XML Text">
