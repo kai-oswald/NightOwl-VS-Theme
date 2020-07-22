@@ -9249,16 +9249,16 @@
         <Foreground Type="CT_RAW" Source="FFBAD0DD" />
       </Color>
       <Color Name="WindowPanelTabDivider">
-        <Background Type="CT_RAW" Source="FF434346" />
+        <Background Type="CT_RAW" Source="FF0B4D6B" />
       </Color>
       <Color Name="WindowPanelSupportText">
-        <Background Type="CT_RAW" Source="FF999999" />
+        <Background Type="CT_RAW" Source="FF96ABB9" />
       </Color>
       <Color Name="WindowPanelBorder">
-        <Background Type="CT_RAW" Source="FF434346" />
+        <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="WindowPanel">
-        <Background Type="CT_RAW" Source="FF252526" />
+        <Background Type="CT_RAW" Source="FF011627" />
       </Color>
       <Color Name="ListItemBackgroundHover">
         <Background Type="CT_RAW" Source="FF5F7E97" />
