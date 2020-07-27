@@ -8288,7 +8288,7 @@
       </Color>
       <Color Name="ListBox">
         <Background Type="CT_RAW" Source="FF011627" />
-        <Foreground Type="CT_RAW" Source="FF1E1E1E" />
+        <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="ListBoxBorder">
         <Background Type="CT_RAW" Source="FFCCCEDB" />
