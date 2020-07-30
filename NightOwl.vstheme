@@ -2129,6 +2129,36 @@
         <Background Type="CT_INVALID" Source="00000000" />
         <Foreground Type="CT_INVALID" Source="00000000" />
       </Color>
+      <Color Name="Python comma">
+        <Foreground Type="CT_RAW" Source="FFD6DEEB" />
+      </Color>
+      <Color Name="Python documentation">
+        <Foreground Type="CT_RAW" Source="FF637777" />
+      </Color>
+      <Color Name="Python dot">
+        <Foreground Type="CT_RAW" Source="FFD6DEEB" />
+      </Color>
+      <Color Name="Python parameter">
+        <Foreground Type="CT_RAW" Source="FF7FDBCA" />
+      </Color>
+      <Color Name="Python builtin">
+        <Foreground Type="CT_RAW" Source="FFFF5874" />
+      </Color>
+      <Color Name="Python grouping">
+        <Foreground Type="CT_RAW" Source="FFD9F5DD" />
+      </Color>
+      <Color Name="Python operator">
+        <Foreground Type="CT_RAW" Source="FFD6DEEB" />
+      </Color>
+      <Color Name="Python function">
+        <Foreground Type="CT_RAW" Source="FFADDB67" />
+      </Color>
+      <Color Name="Python module">
+        <Foreground Type="CT_RAW" Source="FFD6DEEB" />
+      </Color>
+      <Color Name="Python class">
+        <Foreground Type="CT_RAW" Source="FFFFCB8B" />
+      </Color>
     </Category>
     <Category Name="Command Window" GUID="{ee1be240-4e81-4beb-8eea-54322b6b1bf5}">
       <Color Name="Plain Text">

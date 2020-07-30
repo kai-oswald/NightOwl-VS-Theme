@@ -47,6 +47,7 @@
   <ItemGroup>
     <Content Include="demo\css.css" />
     <Content Include="demo\js.js" />
+    <Content Include="demo\python.py" />
     <Content Include="demo\vb.vb" />
     <Content Include="preview.png">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
