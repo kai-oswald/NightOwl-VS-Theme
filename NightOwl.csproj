@@ -45,6 +45,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Content Include="demo\cplusplus-source.cc" />
     <Content Include="demo\css.css" />
     <Content Include="demo\js.js" />
     <Content Include="demo\python.py" />
