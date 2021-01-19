@@ -3658,15 +3658,15 @@
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="NewProjectItemInactiveBegin">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0E293F" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="NewProjectItemInactiveEnd">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0E293F" />
         <Foreground Type="CT_RAW" Source="FFFFFFFF" />
       </Color>
       <Color Name="NewProjectItemInactiveBorder">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0E293F" />
       </Color>
       <Color Name="PageContentExpanderChevron">
         <Background Type="CT_RAW" Source="FFE0F6FF" />
@@ -8234,7 +8234,7 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0E293F" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="ListItemMouseOver">
@@ -8389,7 +8389,7 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0E293F" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="FocusVisualBorder">
@@ -8978,7 +8978,7 @@
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="SelectedItemInactive">
-        <Background Type="CT_RAW" Source="FF011627" />
+        <Background Type="CT_RAW" Source="FF0E293F" />
         <Foreground Type="CT_RAW" Source="FFE0F6FF" />
       </Color>
       <Color Name="ListItemMouseOver">
